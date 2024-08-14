@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rockpaperscissors/static/css/main.194d15fe.css",
+    "main.js": "/rockpaperscissors/static/js/main.83feaf20.js",
+    "static/js/453.357ae283.chunk.js": "/rockpaperscissors/static/js/453.357ae283.chunk.js",
+    "static/media/rock.svg": "/rockpaperscissors/static/media/rock.4d7318325f93443320a650ea20466080.svg",
+    "static/media/rockBL.svg": "/rockpaperscissors/static/media/rockBL.db1c60da3a62cb61a8cf3de65feb5702.svg",
+    "static/media/handrtl.svg": "/rockpaperscissors/static/media/handrtl.a609aeff6db6c829a6a9b144f733f947.svg",
+    "static/media/handltr.svg": "/rockpaperscissors/static/media/handltr.ca9c50f63c98601532d85dcc0da8367f.svg",
+    "static/media/paperBL.svg": "/rockpaperscissors/static/media/paperBL.a3b86d2975efe1fcc7b21ba57d4ffc02.svg",
+    "static/media/paper.svg": "/rockpaperscissors/static/media/paper.40241d7d2d346dc1b57490d31bf160c7.svg",
+    "static/media/scissorBL.svg": "/rockpaperscissors/static/media/scissorBL.4e35ca4eeafc9c61e7dc6f8c96aaddd4.svg",
+    "static/media/scissor.svg": "/rockpaperscissors/static/media/scissor.1ac4341608c34f806b854ddae24d1313.svg",
+    "index.html": "/rockpaperscissors/index.html",
+    "main.194d15fe.css.map": "/rockpaperscissors/static/css/main.194d15fe.css.map",
+    "main.83feaf20.js.map": "/rockpaperscissors/static/js/main.83feaf20.js.map",
+    "453.357ae283.chunk.js.map": "/rockpaperscissors/static/js/453.357ae283.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.194d15fe.css",
+    "static/js/main.83feaf20.js"
+  ]
+}
